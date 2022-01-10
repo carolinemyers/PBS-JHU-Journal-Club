@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "carolinemyers/PBS JHU Journal Club"
+title                    : "PBS JHU Journal Club"
 title_separator          : "-"
 name                     : &name "PBS Journal Club"
 description              : &description "A journal club for students in the Department of Psychological and Brain Sciences at Johns Hopkins University."
